@@ -1,0 +1,6 @@
+interface:
+  display_name: "Project Architect"
+  short_description: "Разворачивает структурированный Codex-проект"
+  default_prompt: "Используй $project-architect для подготовки нового проекта из согласованного брифа."
+policy:
+  allow_implicit_invocation: false

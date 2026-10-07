@@ -1,0 +1,9 @@
+title: "Question"
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: Context and question
+      description: State the foundation version and environment. Redact private details.
+    validations:
+      required: true
